@@ -57,10 +57,6 @@ pip install numpy pandas scikit-learn matplotlib
 
 The analysis provides a scatter plot comparing predicted and actual log solubility values. The plot demonstrates the model's performance and improvements made through optimization.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Contributions
 
 Contributions are welcome! Please submit issues and pull requests for any improvements or suggestions.
