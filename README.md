@@ -36,13 +36,13 @@ pip install numpy pandas scikit-learn matplotlib
 1. Clone this repository:
 
    ```bash
-   git clone <repository-url>
+   git clone <(https://github.com/Riyarajput27/Solubility-Prediction/tree/main)>
    ```
 
 2. Navigate to the repository folder:
 
    ```bash
-   cd <repository-folder>
+   cd <(https://github.com/Riyarajput27/Solubility-Prediction/tree/main)>
    ```
 
 3. Open the Jupyter Notebook:
